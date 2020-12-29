@@ -1,0 +1,11 @@
+,client_pin,product,token,timestamp,kafka_partition
+0,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:42:26.938,10
+24,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:43:38.715,10
+25,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:43:38.724,10
+31,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:43:45.580,10
+72,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:45:41.462,10
+73,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:45:41.467,10
+74,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:45:46.440,10
+88,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:46:27.664,10
+89,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:46:27.671,10
+90,ARMIMW,DU,"{'name': 'SELECT_PRODUCT_DU', 'potential': 1, 'color': 'BLUE', 'provenance': 'nnp.wtk:nnp.wtf'}",2020-12-27 18:46:30.166,10
